@@ -23,7 +23,7 @@ This project is an interactive Power BI dashboard built to analyze call center p
 - Support data-driven decisions to enhance customer satisfaction
 
 ## Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Tools Used
 - Power BI  
