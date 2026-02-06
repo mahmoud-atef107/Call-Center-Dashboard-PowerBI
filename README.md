@@ -20,7 +20,10 @@ This project is an interactive Power BI dashboard built to analyze call center p
 - Improve billing self-service through FAQ and chatbot solutions  
 - Optimize staffing and call routing to meet SLA targets  
 - Strengthen digital channels such as web and chatbot  
-- Support data-driven decisions to enhance customer satisfaction  
+- Support data-driven decisions to enhance customer satisfaction
+
+## Dashboard Preview
+![Dashboard](Screenshots/dashboard.png)
 
 ## Tools Used
 - Power BI  
